@@ -1,6 +1,6 @@
 {
-  "name": "FantomIndia ", /* Name of the validator */
-  "logoUrl": "LOGO_URL", /* Validator logo (PNG|JPEG|SVG) - 100px x 100px is enough */
-  "website": "https://t.me/fantom_india", /* Website icon on the right */
-  "contact": "https://twitter.com/Fantom_India" /* Contact icon on the right */
+  "name": "FantomIndia ",
+  "logoUrl": "https://github.com/neesaty/FantomIndia/blob/master/fantom_logo.jpg",
+  "website": "https://t.me/fantom_india",
+  "contact": "https://twitter.com/Fantom_India"
 }
